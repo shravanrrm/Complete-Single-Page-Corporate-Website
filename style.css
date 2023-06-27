@@ -267,12 +267,12 @@ section {
 }
 
 .section-info {
-      font-size: 24px;
-      color: grey;
+      font-size: 34px;
+      color: rgb(204, 34, 34);
 }
 
 .more {
-      margin: 40px 0;
+      margin: 55px 0;
 }
 
 button {
